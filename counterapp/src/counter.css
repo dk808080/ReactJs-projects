@@ -1,0 +1,11 @@
+button {
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  margin: 20px;
+}
+body {
+  background-color: teal;
+  text-align: center;
+  margin-top: 5rem;
+}
